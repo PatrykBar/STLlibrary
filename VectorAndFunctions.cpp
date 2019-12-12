@@ -56,7 +56,7 @@ int main()
 
     cout << "-------------------------------------------" << endl;
 
-    cout << "Last element: " << *strings.end() << endl; //.end() wskaŸnik do elementu za kontenerem, dlatego nie zawiera wartoœci
+    cout << "Last element: " << *strings.end() << endl; //.end() wskaÅ¸nik do elementu za kontenerem, dlatego nie zawiera wartoÅ“ci
 
     cout << "-------------------------------------------" << endl;
 
@@ -70,7 +70,7 @@ int main()
 
     cout << "-------------------------------------------" << endl;
 
-    cout << "Last element: " << *strings.crend() << endl; // wska¿nik do elementu prxzed pierwszym elementem
+    cout << "Last element: " << *strings.crend() << endl; // wskaÂ¿nik do elementu prxzed pierwszym elementem
 
     cout << "-------------------------------------------" << endl;
 
